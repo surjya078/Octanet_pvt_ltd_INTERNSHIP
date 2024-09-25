@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class User {
+class User { 
 	private int userId;
 	private int pin;
 	private double balance;
