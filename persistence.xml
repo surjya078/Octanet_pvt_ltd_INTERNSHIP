@@ -8,7 +8,7 @@
 
 	<persistence-unit name="hapi">
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-
+ 
 		<properties>
 			<property name="javax.persistence.jdbc.driver"
 				value="com.mysql.cj.jdbc.Driver" />
