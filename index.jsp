@@ -7,7 +7,7 @@
 <table border="2" align="center" cellpadding="20px">
 		<th>Id</th>
 		<th>Skill</th>
-		<th>State</th>
+		<th>State</th> 
 		<th>Role</th>
 		<th>Location</th>
 		<th>Company</th>
